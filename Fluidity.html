@@ -30,10 +30,8 @@ function layout()
 		var feature = document.getElementById("feature");
 		var showcase = document.getElementById("showcase");
 		var menu = document.getElementById("menu");
-		//var items = menu.getElementsByTagName("li");
 		
 		if (winWidth > 550) {
-			//for (var i = 0; i < items.length; i++) items.item(i).style.display = 'inline';
 			menu.style.float = "right";
 			menu.style.clear = "none";
 			showcase.style.height = "200px";
@@ -42,7 +40,6 @@ function layout()
 			feature.style.float = "right";
 		}
 		else {
-			//for (var i = 0; i < items.length; i++) items.item(i).style.display = 'block';
 			menu.style.float = "none";
 			menu.style.clear = "both";
 			showcase.style.height = "300px";
