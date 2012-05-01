@@ -1,0 +1,6 @@
+Let's assume that "filling" the bus means filling the interior seating area, excluding the trunk or storage compartments. 
+An average school bus is about 40 feet long, 6 feet wide, and 10 feet high, which comes to 2400 cubic feet. About 2/3 of 
+this space is probably taken up by the engine, surrounding air, storage compartments. Which leaves 800 cubic feet or 
+1728 * 800 cubic inches for ping-pong balls. Ping pong balls are about 1.5" in diameter so they fit in a cube of 3.375 
+cubic inches. 1728 * 800 / 3.375 is about 1730 * 800 / 3. We round the bus volume up and the cube volume down since the 
+optimal packing of ping-pong balls will be better than a cubic arrangment. So this is about 576 * 800 = 510,800.

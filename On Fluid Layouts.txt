@@ -1,0 +1,7 @@
+Fluid layouts are useful because they allow a website to make better use of available screen
+space. On a large screen, stretching or rearranging elements to fill the space can improve
+the user experience by presenting more information at once and eliminating the need for 
+scrolling. As users increasingly browse the web on mobile devices, fluid layouts also become
+important for adapting websites to small screen sizes. Instead of letting the mobile browser
+zoom out on a large page, it is a better idea to scale the width of the page down and rethink
+the presentation of information.
